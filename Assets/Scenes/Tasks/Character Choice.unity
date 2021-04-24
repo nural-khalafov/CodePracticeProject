@@ -394,7 +394,7 @@ GameObject:
   - component: {fileID: 230414919}
   - component: {fileID: 230414922}
   m_Layer: 5
-  m_Name: Billy_Button
+  m_Name: Lisiy_Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -515,7 +515,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf6e0e0430ebeb54c83d369f8873076c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: {fileID: 2065139587}
 --- !u!1 &271044302
 GameObject:
   m_ObjectHideFlags: 0
@@ -640,7 +639,7 @@ GameObject:
   - component: {fileID: 413950959}
   - component: {fileID: 413950958}
   m_Layer: 5
-  m_Name: Billy_InputField
+  m_Name: Lisiy_InputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1760,7 +1759,7 @@ GameObject:
   - component: {fileID: 1274088861}
   - component: {fileID: 1274088864}
   m_Layer: 5
-  m_Name: Billy_Button
+  m_Name: Van_Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1881,7 +1880,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf6e0e0430ebeb54c83d369f8873076c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: {fileID: 461501179}
 --- !u!1 &1314910426
 GameObject:
   m_ObjectHideFlags: 0
@@ -2060,7 +2058,7 @@ GameObject:
   - component: {fileID: 1534648760}
   - component: {fileID: 1534648759}
   m_Layer: 5
-  m_Name: Billy_InputField
+  m_Name: Van_InputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3034,7 +3032,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf6e0e0430ebeb54c83d369f8873076c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: {fileID: 1151732463}
 --- !u!1 &2065139585
 GameObject:
   m_ObjectHideFlags: 0

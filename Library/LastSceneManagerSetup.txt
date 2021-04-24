@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Practice Scene.unity
+- path: Assets/Scenes/Tasks/Character Choice.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
